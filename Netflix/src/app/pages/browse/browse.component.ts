@@ -1,5 +1,5 @@
 import { Component, inject } from '@angular/core';
-import { AuthService } from '../../../auth.service/auth.service';
+import { AuthService } from '../../shared/services/auth.service/auth.service';
 
 @Component({
   selector: 'app-browse',
